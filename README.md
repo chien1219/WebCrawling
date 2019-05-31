@@ -15,7 +15,7 @@ Get GS data by REST API and form and upload csv report to GS Downloadable
 ### run_mr.py  
 Combine all csv in specific month into a csv file the upload to GS Downloadable
   
-#### GS Server端 (GS Cloud Code)  
+### GS Server端 (GS Cloud Code)  
 Send report everyday  
 
 ```
