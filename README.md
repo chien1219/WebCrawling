@@ -1,5 +1,5 @@
 ## Report
-Work with GameSpark(GS) Cloud Code & REST API
+Work with GameSpark(GS) Cloud Code & REST API  
 Dump data from GS server by REST API and Send DailyReport everyday to game administrator
 
 Install tip:
